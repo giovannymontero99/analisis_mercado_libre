@@ -3,6 +3,7 @@
     - Gustavo Osorio
     - Giovanny Montero
     - Sergio Aranzazu
+    - Juan Camilo Hurtado A
 ## Grafica Mermaid
 
 
