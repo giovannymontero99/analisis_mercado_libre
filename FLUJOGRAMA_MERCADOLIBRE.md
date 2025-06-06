@@ -1,5 +1,10 @@
 # Flujograma Mercado libre
-## Grafica Mermaid 
+- integrantes
+    - Gustavo Osorio
+    - Giovanny Montero
+    - Sergio Aranzazu
+## Grafica Mermaid
+
 
 
 ```mermaid
